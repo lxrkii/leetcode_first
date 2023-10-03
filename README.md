@@ -1,5 +1,5 @@
 <h1 align="center">How to solve<a href="https://daniilshat.ru/" target="_blank"></a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://i.imgur.com/VFa4Mjqr.jpg" height="32" weight="32"/></h1>
 
 Link on problem: https://leetcode.com/problems/regular-expression-matching/
 
